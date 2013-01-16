@@ -1,0 +1,13 @@
+{
+  "name": "closure",
+  "version": "2367.0.0",
+  "description": "A thin node wrapper for the Google Closure Library",
+  "main": "index.js",
+  "author": "Sam Aarons <samaarons@gmail.com>",
+  "homepage": "http://github.com/saarons/closure",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/saarons/closure.git"
+  }
+}
